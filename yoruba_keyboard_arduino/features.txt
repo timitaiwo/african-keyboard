@@ -1,0 +1,14 @@
+1. Modularity:
+    This project while based off the yoruba language should be able to scale past the yoruba language so it would be based of the International African Alphabets (IAI alphabet) this would allow for future support of other languages as modules.
+
+
+2. Diacritics/Accents (`, ^, )
+   Diacritics/accents are critical in expressing the meaning of words in languages such as yoruba. The absence or improper use of diacritics is a source of fustration in understanding what is written. Ironically, a great source of fustration when typing is the difficulty in inputting diacritics. This project must design a method of inputting diatcitics when typing in a user friendly manner.
+
+
+3. Coupling of Consonants:
+   This project allows for the coupling/grouping of two consonants e.g gb, kp, mw, kh etc. This feature allows for the program to process the languages syntatically while maintaining the compatablity with the International African Alphabet.
+
+
+4. Local Currency Support:
+   Initial support is Naira but a country variable could hold the selected country which then determines the default currency of the keyboard

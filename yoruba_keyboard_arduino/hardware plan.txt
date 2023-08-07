@@ -1,0 +1,4 @@
+1. Research how keyboards are designed and built 
+
+
+2. Consider the use of microprocessors (e.g Arduino) and microcontrollers (e.g Raspberry Pi and other single board computers) in adding smart capabilities to the keyboard
