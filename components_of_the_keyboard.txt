@@ -1,0 +1,31 @@
+Reference YT video → https://youtu.be/qXeD4k4cafE
+
+KEY GOALS
+1. Research how keyboards are designed and built 
+2. Consider the use of microprocessors (e.g Arduino) and microcontrollers (e.g Raspberry Pi and other single board computers)
+   in adding smart capabilities to the keyboard
+
+
+KEYBOARD HARDWARE
+→ Case
+→ PCB
+→ Plate
+→ Switches
+→ Keycaps
+
+On the PCB, lookup 
+i.  ai03 
+        https://wiki.ai03.com/
+        https://wiki.ai03.com/books/pcb-design
+ii. masterzen 
+        https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/
+        https://www.masterzen.fr/2020/05/25/designing-a-keyboard-part2/
+        https://www.masterzen.fr/2020/10/20/designing-a-keyboard-part3/
+        https://www.masterzen.fr/2020/12/16/desiging-a-keyboard-part4/
+
+
+KEYBOARD SOFTWARE
+Under consideration for the firmware is Quantum Mechanical keyboard (QMK) opensource keyboard firmware
+
+https://qmk.fm/
+https://github.com/qmk/qmk_firmware
